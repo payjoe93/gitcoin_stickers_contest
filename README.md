@@ -13,4 +13,4 @@ Discord Animated Stickers (.GIF)
 
 *Discord Animated Stickers (.JSON)
 <i>Link : Will Be Available Soon</i>
-(this version is only for verivied server on discord. Full requirement will be find in here : https://support.discord.com/hc/en-us/articles/4402687377815-Tips-for-Sticker-Creators-FAQ
+(this version is only for verified server on discord. Full requirement will be find in here : https://support.discord.com/hc/en-us/articles/4402687377815-Tips-for-Sticker-Creators-FAQ
