@@ -1,7 +1,8 @@
 # gitcoin_stickers_contest
+
+This Stickers is ANIMATED ( Work on discord & telegram )
 File Format .gif .tgs .json(lottiefies)
 
-This is just preview. Final File will be update in this repository.
 
 <img src="https://i.ibb.co/MCN2jwq/ezgif-com-gif-maker-17.gif">
 
