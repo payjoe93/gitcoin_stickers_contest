@@ -3,13 +3,12 @@ File Format .gif .tgs .json(lottiefies)
 
 This is just preview. Final File will be update in this repository.
 
+
+
 <b>Link to Final File</b>
 
 Telegram Animated Stickers (.TGS)
-<i>Link : Will Be Available Soon</i>
-
-Discord Animated Stickers (.GIF)
-<i>Link : Will Be Available Soon</i>
+<i>Link : https://t.me/addstickers/Gitcoin_payjoe93</i>
 
 *Discord Animated Stickers (.JSON)
 <i>Link : Will Be Available Soon</i>
