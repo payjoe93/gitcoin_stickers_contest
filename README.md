@@ -19,7 +19,7 @@ File Dimension : 320px x 320px
 
 File Size : 300kb - 480kb
 
-<i>note : i make them nearly 500kb in order to keep quality better.</i>
+<i>note : i make them nearly 500kb in order to keep quality better. Fps is reduced because size limit.</i>
 
 • [.TGS]
 
