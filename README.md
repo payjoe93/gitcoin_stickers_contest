@@ -9,9 +9,18 @@ This character is inspired by astronaut on gitcoin website. I create a friendly 
 <b>USAGE</b>
 
 This Stickers is ANIMATED ( can be use on discord & telegram )
-File Format .gif .tgs .json(lottiefies)
+File Format .apng .gif .tgs .json(lottiefies)
 
 <b>FILE DESCRIPTION</b>
+
+
+• [.aPNG] - For Discord
+
+File Dimension : 320px x 320px
+
+File Size : 300kb - 480kb
+
+<i>note : i make them nearly 500kb in order to keep quality better. Fps is reduced because size limit.</i>
 
 • [.GIF]
 
@@ -21,7 +30,7 @@ File Size : 300kb - 480kb
 
 <i>note : i make them nearly 500kb in order to keep quality better. Fps is reduced because size limit.</i>
 
-• [.TGS]
+• [.TGS] - For Telegram
 
 File Dimension : 512px x 512ps
 
@@ -31,16 +40,17 @@ Frame Rate : 60fps
 
 <i>note : due TELEGRAM animated stickers requirement, dimension must be 512px x 512px and file size must be under 64kb.</i>
 
-• [.JSON]
+• [.JSON] - For Discord (Lottie)
 Will Upload When Needed
 
 
 
 
-
-
-
 <b>LINK TO FINAL FILE</b>
+
+Discord Stickers (.aPNG)
+
+<i>Preview : Check my REPO</i>
 
 Discord Stickers (.GIF)
 
